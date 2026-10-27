@@ -1,5 +1,5 @@
 // Example WebAssembly mod for Burnout_PC.exe (b5-decomp) in C++ with Dear ImGui -- the C/C++
-// counterpart of the Rust + egui debug menu (github.com/macadelic80/b5_mods).
+// counterpart of the Rust + egui debug menu (github.com/macadelic80/b5_mods_rs).
 //
 // F8 opens / closes a window with the player's position and car, a teleport target, and the
 // game's own debug menu tree (brn.debugvars.v1). ImGui's window layout is kept in the mod's

@@ -1,9 +1,9 @@
-# b5_mods_imgui
+# b5_mods_cpp
 
 A C++ / Dear ImGui mod for Burnout 5 (`Burnout_PC.exe` built from
 [b5-decomp](https://github.com/BurnoutDecomp/b5-decomp), branch `feat/pc-mods-wasm`), as a
 sandboxed **WebAssembly** module -- the C/C++ counterpart of the Rust + egui
-[b5_mods](https://github.com/macadelic80/b5_mods) debug menu.
+[b5_mods_rs](https://github.com/macadelic80/b5_mods_rs) debug menu.
 
 F8 opens a window with the player's position and car, a teleport target, and the game's own
 debug menu tree (`brn.debugvars.v1`). ImGui's window layout is kept in the mod's storage
